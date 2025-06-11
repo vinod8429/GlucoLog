@@ -1,4 +1,4 @@
-![IMG_3321](https://github.com/user-attachments/assets/75658c04-bdb8-4867-93f5-0e53a385fd6c)![IMG_3320](https://github.com/user-attachments/assets/67f0e1df-0c43-40f0-bd1d-5e3f39f504c9)# 🩺 GlucoLog – Your Personal Diabetes Tracker  
+# 🩺 GlucoLog – Your Personal Diabetes Tracker  
 🏆 *Winner – Apple Swift Student Challenge 2025*  
 📍 *Invited to Attend WWDC25 In Person at Apple Park*
 
@@ -53,13 +53,15 @@
 - **Invited to WWDC25 In Person at Apple Park** – Though I couldn’t attend, the invitation itself was an incredible honor and recognition of my work
 
 ---
-## Screenshots 
-![IMG_3320](https://github.com/user-attachments/assets/c0ce2716-a63b-4e55-9241-13771c57cd0a)
-![IMG_3319](https://github.com/user-attachments/assets/30cdfb1d-e987-466a-aeea-2663ef49371b)
-![IMG_3321](https://github.com/user-attachments/assets/a6f2e7d9-69cc-418f-accf-36d3994f3beb)
-![IMG_3324](https://github.com/user-attachments/assets/df02e7de-d1fc-41b5-a517-83d8485814dc)
-![IMG_3325](https://github.com/user-attachments/assets/6a8e7f41-ab23-48ae-9014-1c8ffe0c9fbf)
+## 📸 Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0ce2716-a63b-4e55-9241-13771c57cd0a" width="300" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/30cdfb1d-e987-466a-aeea-2663ef49371b" width="300" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/a6f2e7d9-69cc-418f-accf-36d3994f3beb" width="300" alt="Screenshot 3"/>
+  <img src="https://github.com/user-attachments/assets/df02e7de-d1fc-41b5-a517-83d8485814dc" width="300" alt="Screenshot 4"/>
+  <img src="https://github.com/user-attachments/assets/6a8e7f41-ab23-48ae-9014-1c8ffe0c9fbf" width="300" alt="Screenshot 5"/>
+</p>
 ---
 
 1. Clone this repository:
